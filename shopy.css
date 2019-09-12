@@ -2,7 +2,6 @@
 	grid-area: header;
 	background-color: white;
 	border-bottom: 1px outset #FFFAFA;
-
 }
 .top{
 	grid-area: tops;
@@ -42,7 +41,6 @@
 		'about about about about'
 		'bot bot bot bot'
 		'footer footer footer footer';
-
 }
 .flex-container{
 	display: flex;
